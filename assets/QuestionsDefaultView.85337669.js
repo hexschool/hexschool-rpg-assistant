@@ -1,0 +1,1 @@
+import{u as e,o,a as n,c as r}from"./index.58a2b2b9.js";import{l as u,a as i}from"./loading.315d038a.js";const d={setup(c){const s=e(),a=u(async()=>{const{questions:t}=await i();!t[0]||s.push({name:"questions",params:{id:t[0].id}})});return o(a),(t,p)=>(n(),r("div"))}};export{d as default};
